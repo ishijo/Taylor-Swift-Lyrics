@@ -4,7 +4,7 @@ This dataset contains almost all (if not all) of **Taylor Swift** Albums' songs'
 
 Each album has a different directory for itself.
 
-Also a list of Albums csv file provided. Will be updating Individual Album data soon!
+Also a list of Albums csv file and one for all albums individually in the 'Tabular' directory provided.
 
 # Albums:
 42 Albums from Taylor Swift's discography, including 10 **studio** albums, and various **deluxe**, **live**, **re-recorded**, **language** editions and **remix** albums among many others.
