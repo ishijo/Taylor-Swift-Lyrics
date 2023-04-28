@@ -6,6 +6,8 @@ Each album has a different directory for itself.
 
 Also a list of Albums csv file and one for all albums individually in the 'Tabular' directory provided.
 
+#### Check the notebook to see how the data was extracted using the lyricsgenius python library here - 
+
 # Albums:
 42 Albums from Taylor Swift's discography, including 10 **studio** albums, and various **deluxe**, **live**, **re-recorded**, **language** editions and **remix** albums among many others.
 
