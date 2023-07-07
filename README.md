@@ -1,16 +1,15 @@
-# Taylor Swift All Lyrics (42 Albums)
+```Added 2 more albums (July'23)```
 
-This dataset contains almost all (if not all) of **Taylor Swift** Albums' songs' lyrics (42 Albums currently). The format for the lyrics is completely textual (.txt format) to provide complete flexibility to the user 😊.
+This dataset contains almost all (if not all) of *Taylor Swift* Songs' **Lyrics** (46 Albums currently). The format for the lyrics is completely textual (.txt format) to provide complete flexibility to the user 😊. The data set also contains **Cover art** for all of these Albums.
 
 Each album has a different directory for itself.
 
-Also a list of Albums csv file and one for all albums individually in the 'Tabular' directory provided.
+Also a list of Albums csv file and one for all albums individually in the 'Tabular' directory provided. 
 
-#### Check the notebook to see how the data was extracted using the lyricsgenius python library here in [main.ipynb](https://github.com/ishijo/Taylor-Swift-Lyrics/blob/main/main.ipynb).
+### Please Upvote if this helps you!
 
 # Albums:
-42 Albums from Taylor Swift's discography, including 10 **studio** albums, and various **deluxe**, **live**, **re-recorded**, **language** editions and **remix** albums among many others.
-
+46 Albums from Taylor Swift's discography, including 10 **studio** albums, and various **deluxe**, **live**, **re-recorded**, **language** editions and **remix** albums among many others. 
 1. Speak Now	
 2. Taylor Swift	
 3. Fearless	
@@ -53,6 +52,10 @@ Also a list of Albums csv file and one for all albums individually in the 'Tabul
 40. The More Fearless (Taylor’s Version) Chapter	
 41. The More Red (Taylor’s Version) Chapter	
 42. folklore: the long pond studio sessions (Record Store Day Exclusive)	
+43. Speak Now (Taylor's Verson)
+44. Midnights (The Late Night Edition)
+45. Midnights (The Till Dawn Edition)
+46. Lover (Live From Paris) Heart Shaped Vinyl
 
 ## Note:
 ### *(For reference regarding directory and file names)*
@@ -78,4 +81,4 @@ track_filename = re.sub('[^a-zA-Z0-9_]','_',''.join(track_name.split())) + '.txt
 Hope this helped, have fun!
 
 ## Acknowledgements:
- This data has been collected frmo Genius through its API
+ This data has been collected from Genius through its API
